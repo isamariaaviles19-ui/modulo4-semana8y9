@@ -1,0 +1,6 @@
+Es muy importante que estas plataformas sean estables y seguras porque son espacios donde las comunidades comparten información, aprenden y se organizan.    
+Si el servidor falla, se corta el acceso a servicios esenciales y se pierde confianza. 
+La estabilidad asegura que la plataforma esté disponible todo el tiempo, sin interrupciones que afecten actividades educativas o sociales.                                                                                                                                          
+La seguridad protege los datos personales y evita modificaciones no autorizadas, garantizando que la información sea privada y correcta.                                                                                                                                                         
+Cuando el sistema funciona bien, la gente se siente segura al participar y contribuir. Un servicio confiable permite que la comunidad crezca y se mantenga conectada. 
+Sin estas condiciones, la plataforma deja de ser útil y pierde su propósito de apoyo colectivo.
